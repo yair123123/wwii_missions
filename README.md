@@ -17,8 +17,7 @@ The project is written in **Python** and **SQL**.
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/yair123123/wwii_missions.git
     ```
 
 2. Install the required dependencies:
